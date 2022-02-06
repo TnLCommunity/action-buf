@@ -11,7 +11,6 @@ Runs buf commmands to lint and generate protos
 <!-- start contents -->
 <!-- end contents -->
 <!-- start usage -->
-<!-- yeet -->
 
 ```yaml
 - uses: tnlcommunity/action-buf@undefined
