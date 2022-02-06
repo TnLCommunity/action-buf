@@ -13,7 +13,7 @@ Runs buf commmands to lint and generate protos
 <!-- start usage -->
 
 ```yaml
-- uses: tnlcommunity/action-buf@undefined
+- uses: TnLCommunity/action-buf@undefined
   with:
     # Buf user
     buf-user: ""
